@@ -384,3 +384,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [crongle's solution](https://github.com/crongle/calculator) - [View in Browser](https://crongle.github.io/calculator/)
 - [Robert Suazo's solution](https://github.com/rsuazo/calculator) - [View in Browser](https://rsuazo.github.io/calculator/)
 </details>
+- [William's Solution](https://github.com/WilliamBayliss/Calculator) - [View in Browser](https://williambayliss.github.io/Calculator/)
